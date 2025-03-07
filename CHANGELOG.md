@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/alphacode-abarnans/semantic-release/compare/v1.1.0...v1.1.1) (2025-03-07)
+
+
+### Bug Fixes
+
+* sample ([220c985](https://github.com/alphacode-abarnans/semantic-release/commit/220c985e874bca739b3778a3c3a5695eb5dd9e18))
+
 # [1.1.0](https://github.com/alphacode-abarnans/semantic-release/compare/v1.0.0...v1.1.0) (2025-03-07)
 
 
